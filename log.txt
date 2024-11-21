@@ -1,1 +1,2 @@
 0074. ♻️ chore: add GitHub actions badge
+0742. 📚 docs: clarify environment setup
