@@ -2,3 +2,4 @@
 0742. 📚 docs: clarify environment setup
 0114. ♻️ chore: update .gitignore
 0307. ✨ feat: support email verification
+0167. 🚀 perf: reduce image load time
