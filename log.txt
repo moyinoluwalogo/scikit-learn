@@ -5,3 +5,4 @@
 0167. 🚀 perf: reduce image load time
 0837. 🚀 perf: cache repeated calculations
 0678. ✨ feat: add user authentication
+0290. ✅ test: test user registration edge cases
