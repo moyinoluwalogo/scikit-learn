@@ -6,3 +6,4 @@
 0837. 🚀 perf: cache repeated calculations
 0678. ✨ feat: add user authentication
 0290. ✅ test: test user registration edge cases
+0948. 🐛 fix: fix broken CSS in mobile view
