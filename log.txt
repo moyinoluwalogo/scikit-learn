@@ -13,3 +13,4 @@
 0949. 📚 docs: write FAQ section
 0869. ♻️ chore: bump dependencies
 0283. ♻️ chore: add GitHub actions badge
+0314. ✨ feat: implement quiz timer feature
