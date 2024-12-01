@@ -15,3 +15,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0314. ✨ feat: implement quiz timer feature
 0222. 🐛 fix: handle 500 error in quiz API
+0347. ♻️ chore: update .gitignore
