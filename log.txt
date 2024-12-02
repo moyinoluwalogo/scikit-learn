@@ -18,3 +18,4 @@
 0347. ♻️ chore: update .gitignore
 0444. ✅ test: add unit test for quiz service
 0805. ♻️ chore: add GitHub actions badge
+0635. 🎨 style: apply consistent indentation
