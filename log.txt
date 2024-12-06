@@ -23,3 +23,4 @@
 0126. 🎨 style: rename variables for clarity
 0137. 🎨 style: rename variables for clarity
 0025. 🚀 perf: optimize database query for quiz results
+0273. 🚀 perf: reduce image load time
