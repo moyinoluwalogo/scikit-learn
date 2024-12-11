@@ -30,3 +30,4 @@
 0618. ✨ feat: support email verification
 0892. ✅ test: add unit test for quiz service
 0323. 📚 docs: clarify environment setup
+0800. 🚀 perf: optimize database query for quiz results
