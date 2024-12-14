@@ -35,3 +35,4 @@
 0917. ✅ test: add integration test for /submit endpoint
 0862. ♻️ chore: bump dependencies
 0001. 🚀 perf: cache repeated calculations
+0469. 🚀 perf: lazy-load components
