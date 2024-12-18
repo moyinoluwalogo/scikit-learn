@@ -47,3 +47,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0257. 📚 docs: clarify environment setup
 0014. 🔧 refactor: remove redundant code blocks
+0345. 📚 docs: document token refresh logic
