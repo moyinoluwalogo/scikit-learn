@@ -65,3 +65,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0619. ✨ feat: create admin dashboard
 0115. 🚀 perf: reduce image load time
+0492. 🎨 style: remove trailing whitespace
