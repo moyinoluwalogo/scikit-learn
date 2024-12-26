@@ -68,3 +68,4 @@
 0492. 🎨 style: remove trailing whitespace
 0446. 🎨 style: apply consistent indentation
 0672. 🐛 fix: fix broken CSS in mobile view
+0186. ✅ test: test user registration edge cases
