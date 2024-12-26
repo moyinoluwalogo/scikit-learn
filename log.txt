@@ -67,3 +67,4 @@
 0115. 🚀 perf: reduce image load time
 0492. 🎨 style: remove trailing whitespace
 0446. 🎨 style: apply consistent indentation
+0672. 🐛 fix: fix broken CSS in mobile view
