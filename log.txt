@@ -69,3 +69,4 @@
 0446. 🎨 style: apply consistent indentation
 0672. 🐛 fix: fix broken CSS in mobile view
 0186. ✅ test: test user registration edge cases
+0357. ✅ test: add unit test for quiz service
