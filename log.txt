@@ -79,3 +79,4 @@
 0931. 🚀 perf: reduce image load time
 0865. ♻️ chore: add GitHub actions badge
 0875. ✅ test: increase coverage on auth module
+0707. 🎨 style: apply consistent indentation
