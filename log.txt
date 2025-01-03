@@ -81,3 +81,4 @@
 0875. ✅ test: increase coverage on auth module
 0707. 🎨 style: apply consistent indentation
 0054. ♻️ chore: update .gitignore
+0111. 📚 docs: update README with setup steps
