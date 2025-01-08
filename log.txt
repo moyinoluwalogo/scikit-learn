@@ -89,3 +89,4 @@
 0070. ✨ feat: implement quiz timer feature
 0177. 📚 docs: add API usage examples
 0982. 🚀 perf: lazy-load components
+0040. 🔧 refactor: clean up auth middleware
