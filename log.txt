@@ -93,3 +93,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0330. ✅ test: test user registration edge cases
 0508. ✅ test: add unit test for quiz service
+0613. 🐛 fix: prevent crash on empty input
