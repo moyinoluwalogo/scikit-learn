@@ -96,3 +96,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0358. 🚀 perf: reduce image load time
 0005. ✅ test: add unit test for quiz service
+0641. 📚 docs: write FAQ section
