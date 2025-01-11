@@ -98,3 +98,4 @@
 0005. ✅ test: add unit test for quiz service
 0641. 📚 docs: write FAQ section
 0631. ✨ feat: create admin dashboard
+0849. 🐛 fix: correct typo in registration form
