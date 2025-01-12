@@ -100,3 +100,4 @@
 0631. ✨ feat: create admin dashboard
 0849. 🐛 fix: correct typo in registration form
 0913. 🚀 perf: optimize database query for quiz results
+0480. ♻️ chore: add GitHub actions badge
