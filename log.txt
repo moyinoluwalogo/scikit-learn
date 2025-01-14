@@ -103,3 +103,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0571. 🔧 refactor: clean up auth middleware
 0477. 🐛 fix: fix broken CSS in mobile view
+0212. 🎨 style: standardize quote style
