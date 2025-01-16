@@ -107,3 +107,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0350. 🚀 perf: cache repeated calculations
 0904. ✨ feat: implement quiz timer feature
+0731. 🎨 style: standardize quote style
