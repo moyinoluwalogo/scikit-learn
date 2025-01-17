@@ -110,3 +110,4 @@
 0731. 🎨 style: standardize quote style
 0554. 📚 docs: improve code comments in utils
 0454. ♻️ chore: bump dependencies
+0588. 🔧 refactor: organize models into subfolders
