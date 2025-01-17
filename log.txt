@@ -111,3 +111,4 @@
 0554. 📚 docs: improve code comments in utils
 0454. ♻️ chore: bump dependencies
 0588. 🔧 refactor: organize models into subfolders
+0956. 📚 docs: clarify environment setup
