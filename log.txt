@@ -113,3 +113,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0956. 📚 docs: clarify environment setup
 0282. 🔧 refactor: remove redundant code blocks
+0611. ✅ test: test user registration edge cases
