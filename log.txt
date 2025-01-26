@@ -130,3 +130,4 @@
 0615. 🐛 fix: correct typo in registration form
 0382. 📚 docs: improve code comments in utils
 0191. 🔧 refactor: refactor quiz grading logic
+0496. ✅ test: add integration test for /submit endpoint
