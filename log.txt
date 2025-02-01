@@ -141,3 +141,4 @@
 0519. 📚 docs: document token refresh logic
 0269. ✅ test: test user registration edge cases
 0245. 🐛 fix: resolve issue with date parsing
+0344. ♻️ chore: add GitHub actions badge
