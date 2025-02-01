@@ -142,3 +142,4 @@
 0269. ✅ test: test user registration edge cases
 0245. 🐛 fix: resolve issue with date parsing
 0344. ♻️ chore: add GitHub actions badge
+0768. 🎨 style: remove trailing whitespace
