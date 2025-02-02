@@ -145,3 +145,4 @@
 0768. 🎨 style: remove trailing whitespace
 0035. ✅ test: increase coverage on auth module
 0520. 🐛 fix: fix null pointer exception on login
+0294. 🐛 fix: prevent crash on empty input
