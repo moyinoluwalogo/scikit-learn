@@ -144,3 +144,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0768. 🎨 style: remove trailing whitespace
 0035. ✅ test: increase coverage on auth module
+0520. 🐛 fix: fix null pointer exception on login
