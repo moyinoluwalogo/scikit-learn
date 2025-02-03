@@ -146,3 +146,4 @@
 0035. ✅ test: increase coverage on auth module
 0520. 🐛 fix: fix null pointer exception on login
 0294. 🐛 fix: prevent crash on empty input
+0201. 🔧 refactor: clean up auth middleware
