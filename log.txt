@@ -148,3 +148,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0201. 🔧 refactor: clean up auth middleware
 0940. 📚 docs: document token refresh logic
+0301. 🎨 style: apply consistent indentation
