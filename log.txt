@@ -151,3 +151,4 @@
 0301. 🎨 style: apply consistent indentation
 0792. 🎨 style: standardize quote style
 0890. 🔧 refactor: organize models into subfolders
+0023. 📚 docs: clarify environment setup
