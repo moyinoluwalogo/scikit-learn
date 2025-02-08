@@ -156,3 +156,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0548. 📚 docs: write FAQ section
 0409. 🚀 perf: lazy-load components
+0479. 🐛 fix: fix null pointer exception on login
