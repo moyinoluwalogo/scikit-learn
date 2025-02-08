@@ -154,3 +154,4 @@
 0023. 📚 docs: clarify environment setup
 0812. 🔧 refactor: refactor quiz grading logic
 0978. 🐛 fix: prevent crash on empty input
+0548. 📚 docs: write FAQ section
