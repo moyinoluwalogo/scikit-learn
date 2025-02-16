@@ -173,3 +173,4 @@
 0178. ✨ feat: support email verification
 0275. 🎨 style: standardize quote style
 0848. 📚 docs: update README with setup steps
+0419. 🎨 style: remove trailing whitespace
