@@ -176,3 +176,4 @@
 0419. 🎨 style: remove trailing whitespace
 0183. 🔧 refactor: split large controller into smaller functions
 0983. 🔧 refactor: split large controller into smaller functions
+0665. ♻️ chore: update .gitignore
