@@ -178,3 +178,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0665. ♻️ chore: update .gitignore
 0476. 🚀 perf: reduce image load time
+0794. ♻️ chore: clean up unused files
