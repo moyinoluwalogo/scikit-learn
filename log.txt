@@ -180,3 +180,4 @@
 0476. 🚀 perf: reduce image load time
 0794. ♻️ chore: clean up unused files
 0657. 🎨 style: standardize quote style
+0048. 📚 docs: update README with setup steps
