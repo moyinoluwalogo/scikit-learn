@@ -190,3 +190,4 @@
 0440. 📚 docs: update README with setup steps
 0289. 🐛 fix: resolve issue with date parsing
 0378. 🐛 fix: prevent crash on empty input
+0334. 🚀 perf: cache repeated calculations
