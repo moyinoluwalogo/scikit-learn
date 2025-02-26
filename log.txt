@@ -192,3 +192,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0334. 🚀 perf: cache repeated calculations
 0124. 🎨 style: reformat files with black
+0887. 📚 docs: add API usage examples
