@@ -196,3 +196,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0473. 📚 docs: write FAQ section
 0041. 🐛 fix: fix broken CSS in mobile view
+0377. ✨ feat: add user authentication
