@@ -201,3 +201,4 @@
 0583. ✅ test: increase coverage on auth module
 0564. 📚 docs: clarify environment setup
 0741. 🎨 style: apply consistent indentation
+0391. 🐛 fix: fix null pointer exception on login
