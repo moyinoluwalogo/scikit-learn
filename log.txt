@@ -200,3 +200,4 @@
 0060. ♻️ chore: clean up unused files
 0583. ✅ test: increase coverage on auth module
 0564. 📚 docs: clarify environment setup
+0741. 🎨 style: apply consistent indentation
