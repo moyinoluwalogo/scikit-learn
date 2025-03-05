@@ -209,3 +209,4 @@
 0196. ♻️ chore: bump dependencies
 0727. ♻️ chore: add GitHub actions badge
 0782. 📚 docs: improve code comments in utils
+0329. 📚 docs: update README with setup steps
