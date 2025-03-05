@@ -207,3 +207,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0396. 🔧 refactor: split large controller into smaller functions
 0196. ♻️ chore: bump dependencies
+0727. ♻️ chore: add GitHub actions badge
