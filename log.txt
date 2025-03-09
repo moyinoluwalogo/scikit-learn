@@ -215,3 +215,4 @@
 0806. 📚 docs: improve code comments in utils
 0696. 🔧 refactor: clean up auth middleware
 0908. ♻️ chore: bump dependencies
+0994. 🚀 perf: reduce image load time
