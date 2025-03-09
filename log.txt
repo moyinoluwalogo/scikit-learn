@@ -217,3 +217,4 @@
 0908. ♻️ chore: bump dependencies
 0994. 🚀 perf: reduce image load time
 0647. 🐛 fix: prevent crash on empty input
+0553. 🐛 fix: correct typo in registration form
