@@ -230,3 +230,4 @@
 0164. 📚 docs: document token refresh logic
 0288. 🔧 refactor: refactor quiz grading logic
 0318. 🔧 refactor: refactor quiz grading logic
+0024. 📚 docs: write FAQ section
