@@ -234,3 +234,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0669. ✨ feat: enable dark mode toggle
 0950. 🎨 style: reformat files with black
+0969. ✨ feat: create admin dashboard
