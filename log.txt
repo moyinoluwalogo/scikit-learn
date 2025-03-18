@@ -236,3 +236,4 @@
 0950. 🎨 style: reformat files with black
 0969. ✨ feat: create admin dashboard
 0154. 🐛 fix: prevent crash on empty input
+0173. 🚀 perf: cache repeated calculations
