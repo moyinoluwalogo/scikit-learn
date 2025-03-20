@@ -240,3 +240,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0132. ✅ test: add unit test for quiz service
 0921. 🐛 fix: correct typo in registration form
+0532. 🔧 refactor: split large controller into smaller functions
