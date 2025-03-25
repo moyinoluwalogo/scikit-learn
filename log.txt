@@ -249,3 +249,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0464. 🎨 style: remove trailing whitespace
 0546. 🐛 fix: fix null pointer exception on login
+0723. 🔧 refactor: remove redundant code blocks
