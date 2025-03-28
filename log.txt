@@ -252,3 +252,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0746. ♻️ chore: add GitHub actions badge
 0711. 🐛 fix: fix broken CSS in mobile view
+0204. 🎨 style: standardize quote style
