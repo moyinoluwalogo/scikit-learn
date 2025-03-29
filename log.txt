@@ -253,3 +253,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0711. 🐛 fix: fix broken CSS in mobile view
 0204. 🎨 style: standardize quote style
+0589. 🐛 fix: fix broken CSS in mobile view
