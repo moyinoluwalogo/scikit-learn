@@ -257,3 +257,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0080. ✨ feat: support email verification
 0485. 📚 docs: update README with setup steps
+0736. 🐛 fix: fix null pointer exception on login
