@@ -265,3 +265,4 @@
 0755. 🚀 perf: cache repeated calculations
 0632. 🎨 style: remove trailing whitespace
 0429. ✨ feat: add user authentication
+0128. ♻️ chore: rename env.example
