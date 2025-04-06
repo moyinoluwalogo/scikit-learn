@@ -268,3 +268,4 @@
 0128. ♻️ chore: rename env.example
 0543. ✨ feat: support email verification
 0704. 🚀 perf: cache repeated calculations
+0439. 🐛 fix: correct typo in registration form
