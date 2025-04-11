@@ -273,3 +273,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0064. 📚 docs: clarify environment setup
 0119. 📚 docs: improve code comments in utils
+0243. 🔧 refactor: clean up auth middleware
