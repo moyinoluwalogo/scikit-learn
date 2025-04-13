@@ -285,3 +285,4 @@
 0980. 🎨 style: reformat files with black
 0120. ✅ test: add integration test for /submit endpoint
 0134. ✨ feat: implement quiz timer feature
+0112. ✨ feat: enable dark mode toggle
