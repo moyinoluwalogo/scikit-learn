@@ -287,3 +287,4 @@
 0134. ✨ feat: implement quiz timer feature
 0112. ✨ feat: enable dark mode toggle
 0498. ✅ test: mock database connection in test suite
+0235. 🐛 fix: fix null pointer exception on login
