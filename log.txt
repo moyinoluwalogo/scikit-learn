@@ -306,3 +306,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0086. 🐛 fix: correct typo in registration form
 0580. ♻️ chore: bump dependencies
+0433. 🐛 fix: prevent crash on empty input
