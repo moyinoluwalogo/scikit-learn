@@ -304,3 +304,4 @@
 0844. 📚 docs: update README with setup steps
 0387. ✨ feat: enable dark mode toggle
 0652. 🔧 refactor: organize models into subfolders
+0086. 🐛 fix: correct typo in registration form
