@@ -308,3 +308,4 @@
 0580. ♻️ chore: bump dependencies
 0433. 🐛 fix: prevent crash on empty input
 0203. 🚀 perf: lazy-load components
+0158. 📚 docs: clarify environment setup
