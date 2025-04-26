@@ -313,3 +313,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0876. ♻️ chore: rename env.example
 0030. 🐛 fix: fix null pointer exception on login
+0952. 🔧 refactor: split large controller into smaller functions
