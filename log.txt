@@ -314,3 +314,4 @@
 0876. ♻️ chore: rename env.example
 0030. 🐛 fix: fix null pointer exception on login
 0952. 🔧 refactor: split large controller into smaller functions
+0232. 🎨 style: apply consistent indentation
