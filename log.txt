@@ -319,3 +319,4 @@
 0105. 🐛 fix: correct typo in registration form
 0397. 🐛 fix: handle 500 error in quiz API
 0528. ♻️ chore: clean up unused files
+0415. 🐛 fix: handle 500 error in quiz API
