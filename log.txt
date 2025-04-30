@@ -321,3 +321,4 @@
 0528. ♻️ chore: clean up unused files
 0415. 🐛 fix: handle 500 error in quiz API
 0744. 🔧 refactor: remove redundant code blocks
+0051. ✨ feat: enable dark mode toggle
