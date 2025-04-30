@@ -323,3 +323,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0051. ✨ feat: enable dark mode toggle
 0324. 📚 docs: document token refresh logic
+0659. 📚 docs: add API usage examples
