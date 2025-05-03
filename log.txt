@@ -332,3 +332,4 @@
 0656. 🎨 style: apply consistent indentation
 0369. 🎨 style: standardize quote style
 0162. ♻️ chore: add GitHub actions badge
+0690. 🚀 perf: lazy-load components
