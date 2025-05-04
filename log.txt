@@ -333,3 +333,4 @@
 0369. 🎨 style: standardize quote style
 0162. ♻️ chore: add GitHub actions badge
 0690. 🚀 perf: lazy-load components
+0522. 🐛 fix: handle 500 error in quiz API
