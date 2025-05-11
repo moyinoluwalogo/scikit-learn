@@ -345,3 +345,4 @@
 0161. ✨ feat: create admin dashboard
 0683. ✅ test: mock database connection in test suite
 0909. 🔧 refactor: organize models into subfolders
+0988. 🐛 fix: fix broken CSS in mobile view
