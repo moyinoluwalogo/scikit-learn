@@ -360,3 +360,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0774. 🔧 refactor: refactor quiz grading logic
 0174. 📚 docs: clarify environment setup
+0919. 🚀 perf: optimize database query for quiz results
