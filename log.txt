@@ -364,3 +364,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0762. 🚀 perf: lazy-load components
 0094. 📚 docs: document token refresh logic
+0488. ♻️ chore: add GitHub actions badge
