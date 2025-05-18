@@ -368,3 +368,4 @@
 0407. 🚀 perf: cache repeated calculations
 0342. 🚀 perf: cache repeated calculations
 0304. 🔧 refactor: remove redundant code blocks
+0929. ✨ feat: support email verification
