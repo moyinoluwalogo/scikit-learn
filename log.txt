@@ -369,3 +369,4 @@
 0342. 🚀 perf: cache repeated calculations
 0304. 🔧 refactor: remove redundant code blocks
 0929. ✨ feat: support email verification
+0730. ✅ test: test user registration edge cases
