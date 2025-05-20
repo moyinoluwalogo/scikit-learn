@@ -371,3 +371,4 @@
 0929. ✨ feat: support email verification
 0730. ✅ test: test user registration edge cases
 0718. 🐛 fix: resolve issue with date parsing
+0104. 🎨 style: apply consistent indentation
