@@ -388,3 +388,4 @@
 0325. 🎨 style: rename variables for clarity
 0471. ✨ feat: support email verification
 0247. 🎨 style: apply consistent indentation
+0627. 📚 docs: document token refresh logic
