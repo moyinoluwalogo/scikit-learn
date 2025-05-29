@@ -394,3 +394,4 @@
 0516. ✅ test: add unit test for quiz service
 0367. 🐛 fix: fix null pointer exception on login
 0637. 🎨 style: apply consistent indentation
+0880. 🐛 fix: fix broken CSS in mobile view
