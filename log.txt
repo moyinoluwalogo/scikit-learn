@@ -397,3 +397,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0328. 🐛 fix: resolve issue with date parsing
 0769. ✨ feat: create admin dashboard
+0098. 🎨 style: rename variables for clarity
