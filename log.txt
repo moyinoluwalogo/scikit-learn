@@ -409,3 +409,4 @@
 0374. 🎨 style: standardize quote style
 0448. 🐛 fix: correct typo in registration form
 0958. 🐛 fix: prevent crash on empty input
+0676. 🐛 fix: prevent crash on empty input
