@@ -420,3 +420,4 @@
 0463. 🚀 perf: reduce image load time
 0695. ✨ feat: create admin dashboard
 0337. 📚 docs: document token refresh logic
+0764. ✨ feat: add user authentication
