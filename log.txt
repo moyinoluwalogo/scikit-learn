@@ -423,3 +423,4 @@
 0764. ✨ feat: add user authentication
 0335. ♻️ chore: update .gitignore
 0090. ✅ test: increase coverage on auth module
+0604. 📚 docs: add API usage examples
