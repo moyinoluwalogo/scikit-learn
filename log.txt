@@ -422,3 +422,4 @@
 0337. 📚 docs: document token refresh logic
 0764. ✨ feat: add user authentication
 0335. ♻️ chore: update .gitignore
+0090. ✅ test: increase coverage on auth module
