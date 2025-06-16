@@ -424,3 +424,4 @@
 0335. ♻️ chore: update .gitignore
 0090. ✅ test: increase coverage on auth module
 0604. 📚 docs: add API usage examples
+0366. 🔧 refactor: remove redundant code blocks
