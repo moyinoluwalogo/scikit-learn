@@ -442,3 +442,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0801. ✨ feat: enable dark mode toggle
 0302. ✨ feat: implement quiz timer feature
+0003. ✅ test: increase coverage on auth module
