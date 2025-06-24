@@ -440,3 +440,4 @@
 0918. ✨ feat: enable dark mode toggle
 0886. ♻️ chore: clean up unused files
 0900. 🐛 fix: handle 500 error in quiz API
+0801. ✨ feat: enable dark mode toggle
