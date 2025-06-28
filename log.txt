@@ -451,3 +451,4 @@
 0973. 🔧 refactor: organize models into subfolders
 0824. 🚀 perf: lazy-load components
 0512. 🚀 perf: reduce image load time
+0747. 🔧 refactor: clean up auth middleware
