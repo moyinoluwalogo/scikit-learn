@@ -453,3 +453,4 @@
 0512. 🚀 perf: reduce image load time
 0747. 🔧 refactor: clean up auth middleware
 0085. ✨ feat: support email verification
+0574. ✨ feat: enable dark mode toggle
