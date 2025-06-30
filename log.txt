@@ -456,3 +456,4 @@
 0574. ✨ feat: enable dark mode toggle
 0793. 📚 docs: clarify environment setup
 0970. ♻️ chore: update .gitignore
+0643. 🎨 style: apply consistent indentation
