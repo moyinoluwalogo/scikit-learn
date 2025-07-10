@@ -469,3 +469,4 @@
 0398. 🚀 perf: cache repeated calculations
 0910. 🎨 style: remove trailing whitespace
 0459. 🔧 refactor: organize models into subfolders
+0292. 📚 docs: clarify environment setup
