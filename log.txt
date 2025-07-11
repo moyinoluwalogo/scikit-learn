@@ -471,3 +471,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0292. 📚 docs: clarify environment setup
 0927. ♻️ chore: bump dependencies
+0895. ✨ feat: support email verification
