@@ -477,3 +477,4 @@
 0404. 📚 docs: improve code comments in utils
 0470. 🎨 style: remove trailing whitespace
 0791. 🔧 refactor: clean up auth middleware
+0777. 📚 docs: document token refresh logic
