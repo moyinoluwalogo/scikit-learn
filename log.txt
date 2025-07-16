@@ -483,3 +483,4 @@
 0187. ✨ feat: support email verification
 0031. 📚 docs: document token refresh logic
 0217. 🚀 perf: reduce image load time
+0903. ✅ test: mock database connection in test suite
