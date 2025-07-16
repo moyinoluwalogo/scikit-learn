@@ -480,3 +480,4 @@
 0777. 📚 docs: document token refresh logic
 0049. 🐛 fix: handle 500 error in quiz API
 0591. ♻️ chore: clean up unused files
+0187. ✨ feat: support email verification
