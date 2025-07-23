@@ -492,3 +492,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0385. ♻️ chore: clean up unused files
 0230. ✨ feat: create admin dashboard
+0541. 🐛 fix: correct typo in registration form
