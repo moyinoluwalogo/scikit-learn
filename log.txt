@@ -501,3 +501,4 @@
 0964. ♻️ chore: clean up unused files
 0279. ✨ feat: support email verification
 0175. 📚 docs: add API usage examples
+0819. 🚀 perf: reduce image load time
