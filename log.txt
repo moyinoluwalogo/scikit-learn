@@ -506,3 +506,4 @@
 0332. 🎨 style: standardize quote style
 0739. 🎨 style: remove trailing whitespace
 0517. ✅ test: mock database connection in test suite
+0879. 🎨 style: standardize quote style
