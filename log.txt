@@ -509,3 +509,4 @@
 0879. 🎨 style: standardize quote style
 0854. ♻️ chore: rename env.example
 0261. 🔧 refactor: refactor quiz grading logic
+0785. ✨ feat: enable dark mode toggle
