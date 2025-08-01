@@ -516,3 +516,4 @@
 0073. 🔧 refactor: split large controller into smaller functions
 0787. ♻️ chore: rename env.example
 0995. ✅ test: mock database connection in test suite
+0236. 🔧 refactor: remove redundant code blocks
