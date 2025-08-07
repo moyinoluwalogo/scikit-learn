@@ -524,3 +524,4 @@
 0884. 📚 docs: clarify environment setup
 0061. ✨ feat: create admin dashboard
 0617. ✨ feat: support email verification
+0610. 🚀 perf: lazy-load components
