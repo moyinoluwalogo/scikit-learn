@@ -533,3 +533,4 @@
 0252. 🎨 style: remove trailing whitespace
 0943. 🎨 style: rename variables for clarity
 0510. 🎨 style: rename variables for clarity
+0295. 🎨 style: remove trailing whitespace
