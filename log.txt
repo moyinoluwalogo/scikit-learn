@@ -538,3 +538,4 @@
 0640. ♻️ chore: bump dependencies
 0684. 🚀 perf: reduce image load time
 0150. 🎨 style: remove trailing whitespace
+0472. 🐛 fix: fix null pointer exception on login
