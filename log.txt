@@ -537,3 +537,4 @@
 0135. ✅ test: test user registration edge cases
 0640. ♻️ chore: bump dependencies
 0684. 🚀 perf: reduce image load time
+0150. 🎨 style: remove trailing whitespace
