@@ -547,3 +547,4 @@
 0567. 📚 docs: add API usage examples
 0547. 📚 docs: write FAQ section
 0503. ♻️ chore: rename env.example
+0355. 🚀 perf: optimize database query for quiz results
