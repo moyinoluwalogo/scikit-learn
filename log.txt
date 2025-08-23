@@ -559,3 +559,4 @@
 0861. ♻️ chore: clean up unused files
 0225. 🚀 perf: reduce image load time
 0270. ♻️ chore: rename env.example
+0159. 🚀 perf: lazy-load components
