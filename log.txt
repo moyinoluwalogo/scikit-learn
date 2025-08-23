@@ -561,3 +561,4 @@
 0270. ♻️ chore: rename env.example
 0159. 🚀 perf: lazy-load components
 0008. 🚀 perf: reduce image load time
+0698. 🐛 fix: handle 500 error in quiz API
