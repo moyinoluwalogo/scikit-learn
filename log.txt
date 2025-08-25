@@ -566,3 +566,4 @@
 0621. 🔧 refactor: clean up auth middleware
 0468. 📚 docs: update README with setup steps
 0922. 📚 docs: write FAQ section
+0646. ✅ test: test user registration edge cases
