@@ -567,3 +567,4 @@
 0468. 📚 docs: update README with setup steps
 0922. 📚 docs: write FAQ section
 0646. ✅ test: test user registration edge cases
+0306. 🎨 style: apply consistent indentation
