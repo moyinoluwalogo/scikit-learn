@@ -571,3 +571,4 @@
 0685. ✅ test: test user registration edge cases
 0881. 🔧 refactor: split large controller into smaller functions
 0518. ✨ feat: support email verification
+0109. 🚀 perf: lazy-load components
