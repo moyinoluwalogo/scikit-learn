@@ -581,3 +581,4 @@
 0788. 📚 docs: add API usage examples
 0076. 🎨 style: reformat files with black
 0036. 🔧 refactor: clean up auth middleware
+0339. 📚 docs: update README with setup steps
