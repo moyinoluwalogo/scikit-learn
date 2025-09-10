@@ -590,3 +590,4 @@
 0766. 🎨 style: reformat files with black
 0898. 🐛 fix: fix broken CSS in mobile view
 0590. 🐛 fix: fix null pointer exception on login
+0133. 🐛 fix: fix null pointer exception on login
