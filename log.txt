@@ -592,3 +592,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0133. 🐛 fix: fix null pointer exception on login
 0606. 📚 docs: improve code comments in utils
+0642. 🚀 perf: optimize database query for quiz results
