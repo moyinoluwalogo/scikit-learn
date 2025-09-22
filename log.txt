@@ -622,3 +622,4 @@
 0153. ♻️ chore: rename env.example
 0559. 🔧 refactor: split large controller into smaller functions
 0380. 🐛 fix: fix null pointer exception on login
+0390. 🎨 style: standardize quote style
