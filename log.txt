@@ -637,3 +637,4 @@
 0205. 📚 docs: update README with setup steps
 0172. 📚 docs: add API usage examples
 0370. 🚀 perf: reduce image load time
+0265. 🎨 style: reformat files with black
