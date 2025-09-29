@@ -640,3 +640,4 @@
 0265. 🎨 style: reformat files with black
 0495. 🔧 refactor: remove redundant code blocks
 0750. 🎨 style: apply consistent indentation
+0775. 🐛 fix: fix null pointer exception on login
