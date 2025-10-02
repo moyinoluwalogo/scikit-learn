@@ -645,3 +645,4 @@
 0144. ✅ test: increase coverage on auth module
 0237. 🎨 style: standardize quote style
 0753. 🔧 refactor: remove redundant code blocks
+0786. ✨ feat: enable dark mode toggle
