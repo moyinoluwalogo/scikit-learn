@@ -648,3 +648,4 @@
 0786. ✨ feat: enable dark mode toggle
 0989. 📚 docs: write FAQ section
 0758. 🚀 perf: optimize database query for quiz results
+0538. 🐛 fix: fix broken CSS in mobile view
