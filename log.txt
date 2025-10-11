@@ -662,3 +662,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0725. 🚀 perf: lazy-load components
 0026. 🔧 refactor: clean up auth middleware
+0192. ✨ feat: enable dark mode toggle
