@@ -665,3 +665,4 @@
 0192. ✨ feat: enable dark mode toggle
 0628. ♻️ chore: add GitHub actions badge
 0688. 🚀 perf: reduce image load time
+0028. 🎨 style: standardize quote style
