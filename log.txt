@@ -673,3 +673,4 @@
 0962. ✨ feat: create admin dashboard
 0537. 🔧 refactor: remove redundant code blocks
 0811. 🎨 style: reformat files with black
+0561. 📚 docs: write FAQ section
