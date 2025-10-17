@@ -677,3 +677,4 @@
 0474. ✅ test: add unit test for quiz service
 0072. 🚀 perf: optimize database query for quiz results
 0873. 🚀 perf: cache repeated calculations
+0525. ✅ test: mock database connection in test suite
