@@ -685,3 +685,4 @@
 0839. 🎨 style: apply consistent indentation
 0934. ✨ feat: support email verification
 0068. 🐛 fix: fix null pointer exception on login
+0626. 🎨 style: standardize quote style
