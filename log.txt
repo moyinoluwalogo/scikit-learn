@@ -696,3 +696,4 @@
 0493. ✨ feat: add user authentication
 0992. ♻️ chore: clean up unused files
 0110. 🐛 fix: prevent crash on empty input
+0393. 🚀 perf: lazy-load components
