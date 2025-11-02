@@ -707,3 +707,4 @@
 0262. 🎨 style: remove trailing whitespace
 0021. ✨ feat: support email verification
 0907. 🔧 refactor: split large controller into smaller functions
+0231. 🔧 refactor: clean up auth middleware
