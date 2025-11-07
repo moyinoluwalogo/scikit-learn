@@ -715,3 +715,4 @@
 0645. 🐛 fix: resolve issue with date parsing
 0996. ✅ test: test user registration edge cases
 0993. ✨ feat: implement quiz timer feature
+0013. ✅ test: increase coverage on auth module
