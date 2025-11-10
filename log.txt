@@ -725,3 +725,4 @@
 0075. ✅ test: mock database connection in test suite
 0151. ✅ test: add unit test for quiz service
 0809. ♻️ chore: rename env.example
+0515. 🚀 perf: optimize database query for quiz results
