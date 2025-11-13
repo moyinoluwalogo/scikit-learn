@@ -729,3 +729,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0717. 🔧 refactor: refactor quiz grading logic
 0499. 🎨 style: reformat files with black
+0803. ✅ test: mock database connection in test suite
