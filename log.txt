@@ -732,3 +732,4 @@
 0803. ✅ test: mock database connection in test suite
 0108. 🎨 style: remove trailing whitespace
 0587. 🔧 refactor: remove redundant code blocks
+0997. ✅ test: increase coverage on auth module
