@@ -759,3 +759,4 @@
 0830. 🎨 style: apply consistent indentation
 0778. 📚 docs: write FAQ section
 0379. ✨ feat: support email verification
+0636. ✅ test: increase coverage on auth module
