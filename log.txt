@@ -762,3 +762,4 @@
 0636. ✅ test: increase coverage on auth module
 0250. 📚 docs: update README with setup steps
 0500. ✅ test: add integration test for /submit endpoint
+0317. ✅ test: test user registration edge cases
