@@ -763,3 +763,4 @@
 0250. 📚 docs: update README with setup steps
 0500. ✅ test: add integration test for /submit endpoint
 0317. ✅ test: test user registration edge cases
+0763. 🔧 refactor: organize models into subfolders
