@@ -766,3 +766,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0313. 🎨 style: apply consistent indentation
 0883. 📚 docs: improve code comments in utils
+0689. 🎨 style: reformat files with black
