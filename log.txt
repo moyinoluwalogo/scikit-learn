@@ -770,3 +770,4 @@
 0974. ✨ feat: add export to CSV option
 0697. ♻️ chore: bump dependencies
 0551. 📚 docs: write FAQ section
+0820. 📚 docs: add API usage examples
