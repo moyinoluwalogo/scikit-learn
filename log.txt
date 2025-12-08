@@ -772,3 +772,4 @@
 0551. 📚 docs: write FAQ section
 0820. 📚 docs: add API usage examples
 0099. 🚀 perf: reduce image load time
+0346. ✅ test: mock database connection in test suite
