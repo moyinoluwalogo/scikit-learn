@@ -780,3 +780,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0745. ✅ test: add unit test for quiz service
 0408. ♻️ chore: add GitHub actions badge
+0624. ✅ test: add unit test for quiz service
