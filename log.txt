@@ -784,3 +784,4 @@
 0979. 🎨 style: standardize quote style
 0644. 🎨 style: apply consistent indentation
 0022. 📚 docs: document token refresh logic
+0227. ✅ test: test user registration edge cases
