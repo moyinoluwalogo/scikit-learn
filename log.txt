@@ -788,3 +788,4 @@
 0494. 🎨 style: rename variables for clarity
 0216. 🎨 style: rename variables for clarity
 0686. 🎨 style: standardize quote style
+0779. 🔧 refactor: organize models into subfolders
