@@ -797,3 +797,4 @@
 0575. ✅ test: add unit test for quiz service
 0418. ✅ test: mock database connection in test suite
 0266. 🔧 refactor: remove redundant code blocks
+0456. 🚀 perf: optimize database query for quiz results
