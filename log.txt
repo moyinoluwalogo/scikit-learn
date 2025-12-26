@@ -805,3 +805,4 @@
 0859. ✨ feat: create admin dashboard
 0566. 📚 docs: write FAQ section
 0965. 🎨 style: reformat files with black
+0542. 🔧 refactor: organize models into subfolders
