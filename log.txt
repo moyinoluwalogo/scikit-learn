@@ -813,3 +813,4 @@
 0410. 🎨 style: reformat files with black
 0866. 📚 docs: add API usage examples
 0255. 🔧 refactor: refactor quiz grading logic
+0489. 🔧 refactor: organize models into subfolders
