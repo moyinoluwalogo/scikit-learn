@@ -818,3 +818,4 @@
 0169. 📚 docs: add API usage examples
 0197. 📚 docs: update README with setup steps
 0655. 🚀 perf: cache repeated calculations
+0605. ✨ feat: support email verification
