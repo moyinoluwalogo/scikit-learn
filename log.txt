@@ -816,3 +816,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0046. 🎨 style: rename variables for clarity
 0169. 📚 docs: add API usage examples
+0197. 📚 docs: update README with setup steps
