@@ -830,3 +830,4 @@
 0199. ✨ feat: create admin dashboard
 0308. 🚀 perf: reduce image load time
 0056. ♻️ chore: rename env.example
+0006. 🐛 fix: prevent crash on empty input
