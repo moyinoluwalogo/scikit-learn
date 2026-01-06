@@ -833,3 +833,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0761. ✅ test: add unit test for quiz service
 0937. 🐛 fix: handle 500 error in quiz API
+0933. 📚 docs: clarify environment setup
