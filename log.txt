@@ -836,3 +836,4 @@
 0933. 📚 docs: clarify environment setup
 0550. 🔧 refactor: split large controller into smaller functions
 1000. ✅ test: increase coverage on auth module
+0963. 🚀 perf: reduce image load time
