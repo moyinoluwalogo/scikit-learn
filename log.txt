@@ -838,3 +838,4 @@
 1000. ✅ test: increase coverage on auth module
 0963. 🚀 perf: reduce image load time
 0728. 🔧 refactor: split large controller into smaller functions
+0037. 🐛 fix: correct typo in registration form
