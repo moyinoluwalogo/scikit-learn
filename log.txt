@@ -847,3 +847,4 @@
 0816. 🔧 refactor: organize models into subfolders
 0435. ✅ test: add unit test for quiz service
 0930. 🎨 style: apply consistent indentation
+0053. ✅ test: increase coverage on auth module
