@@ -854,3 +854,4 @@
 0834. ✅ test: increase coverage on auth module
 0209. ✨ feat: implement quiz timer feature
 0381. ♻️ chore: clean up unused files
+0760. 🐛 fix: resolve issue with date parsing
