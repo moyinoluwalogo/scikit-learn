@@ -870,3 +870,4 @@
 0633. ✨ feat: add user authentication
 0113. ✨ feat: add user authentication
 0911. ✅ test: increase coverage on auth module
+0701. 🔧 refactor: clean up auth middleware
