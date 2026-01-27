@@ -871,3 +871,4 @@
 0113. ✨ feat: add user authentication
 0911. ✅ test: increase coverage on auth module
 0701. 🔧 refactor: clean up auth middleware
+0889. 🚀 perf: lazy-load components
