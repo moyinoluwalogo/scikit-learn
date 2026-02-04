@@ -881,3 +881,4 @@
 0360. ✨ feat: add export to CSV option
 0716. ✨ feat: implement quiz timer feature
 0954. 🚀 perf: cache repeated calculations
+0131. 📚 docs: write FAQ section
