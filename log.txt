@@ -885,3 +885,4 @@
 0946. ✅ test: add unit test for quiz service
 0426. ✅ test: add integration test for /submit endpoint
 0118. 🚀 perf: reduce image load time
+0593. 🐛 fix: correct typo in registration form
