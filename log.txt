@@ -888,3 +888,4 @@
 0593. 🐛 fix: correct typo in registration form
 0091. ✨ feat: add user authentication
 0081. 🐛 fix: fix null pointer exception on login
+0412. ✅ test: increase coverage on auth module
