@@ -890,3 +890,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0412. ✅ test: increase coverage on auth module
 0213. ✅ test: add integration test for /submit endpoint
+0944. ✨ feat: add user authentication
