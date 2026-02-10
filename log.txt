@@ -892,3 +892,4 @@
 0213. ✅ test: add integration test for /submit endpoint
 0944. ✨ feat: add user authentication
 0692. ✅ test: add integration test for /submit endpoint
+0206. 🐛 fix: handle 500 error in quiz API
