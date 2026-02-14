@@ -908,3 +908,4 @@
 0682. ♻️ chore: rename env.example
 0421. 🔧 refactor: split large controller into smaller functions
 0813. 🔧 refactor: organize models into subfolders
+0935. 📚 docs: update README with setup steps
