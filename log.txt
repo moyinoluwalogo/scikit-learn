@@ -906,3 +906,4 @@
 0146. 🎨 style: apply consistent indentation
 0599. ✅ test: test user registration edge cases
 0682. ♻️ chore: rename env.example
+0421. 🔧 refactor: split large controller into smaller functions
