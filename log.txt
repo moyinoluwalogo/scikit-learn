@@ -904,3 +904,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0166. 🚀 perf: cache repeated calculations
 0146. 🎨 style: apply consistent indentation
+0599. ✅ test: test user registration edge cases
