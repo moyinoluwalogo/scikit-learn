@@ -922,3 +922,4 @@
 0461. ✨ feat: add user authentication
 0502. 📚 docs: update README with setup steps
 0719. 🎨 style: apply consistent indentation
+0281. ✨ feat: support email verification
