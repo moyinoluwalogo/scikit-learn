@@ -930,3 +930,4 @@
 0984. ♻️ chore: clean up unused files
 0840. 🔧 refactor: refactor quiz grading logic
 0411. ✅ test: add unit test for quiz service
+0595. ✨ feat: enable dark mode toggle
