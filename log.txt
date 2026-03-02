@@ -940,3 +940,4 @@
 0106. 🎨 style: reformat files with black
 0715. ✨ feat: create admin dashboard
 0285. 🐛 fix: resolve issue with date parsing
+0842. 🎨 style: remove trailing whitespace
