@@ -952,3 +952,4 @@
 0487. 🎨 style: reformat files with black
 0670. ✨ feat: add export to CSV option
 0586. 🎨 style: remove trailing whitespace
+0601. ✨ feat: implement quiz timer feature
