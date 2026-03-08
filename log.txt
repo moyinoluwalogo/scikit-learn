@@ -954,3 +954,4 @@
 0586. 🎨 style: remove trailing whitespace
 0601. ✨ feat: implement quiz timer feature
 0568. 🐛 fix: handle 500 error in quiz API
+0389. 📚 docs: improve code comments in utils
