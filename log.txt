@@ -966,3 +966,4 @@
 0781. 🚀 perf: reduce image load time
 0305. ✨ feat: enable dark mode toggle
 0552. 🐛 fix: fix null pointer exception on login
+0945. ♻️ chore: add GitHub actions badge
