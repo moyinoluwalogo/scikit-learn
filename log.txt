@@ -971,3 +971,4 @@
 0722. 📚 docs: add API usage examples
 0667. ✨ feat: add export to CSV option
 0402. 🎨 style: reformat files with black
+0885. ♻️ chore: update .gitignore
