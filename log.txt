@@ -974,3 +974,4 @@
 0885. ♻️ chore: update .gitignore
 0661. ✅ test: add integration test for /submit endpoint
 0298. ♻️ chore: update .gitignore
+0340. 🚀 perf: optimize database query for quiz results
