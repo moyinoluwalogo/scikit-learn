@@ -986,3 +986,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0268. 🐛 fix: prevent crash on empty input
 0535. 📚 docs: write FAQ section
+0171. 🐛 fix: fix broken CSS in mobile view
