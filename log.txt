@@ -989,3 +989,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0838. 🎨 style: standardize quote style
 0790. 📚 docs: write FAQ section
+0092. 🚀 perf: reduce image load time
