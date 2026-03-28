@@ -994,3 +994,4 @@
 0254. 🚀 perf: reduce image load time
 0165. 🎨 style: remove trailing whitespace
 0010. ✨ feat: add user authentication
+0829. 🔧 refactor: organize models into subfolders
